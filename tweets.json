@@ -1,0 +1,19 @@
+class Tweet {
+  final String emoji;
+  final String userName;
+  final String text;
+  final String createdAt;
+  Tweet(this.emoji, this.userName, this.text, this.createdAt);
+
+   static final tweets = [
+    Tweet('👑', 'アリス', '俺、生きたい。だから足掻くんだ。', 'DAY 01 ♣️ かくれんぼ（序盤 生存開始）'),
+    Tweet('🐇', 'ウサギ', 'あんたが生きてるなら…あたしも生きる。', 'DAY 03 ♠️ 逃走ゲーム後 / 屋上での会話'),
+    Tweet('🕶️', 'アン', '感情を排除しろ。分析だけが生存につながる。', 'DAY 09 ♦️ データ分析室 / GAME監視'),
+    Tweet('🔥', 'カルベ', '生き残ったのには意味があるんだよ、有栖。', 'DAY 10 ♥️ チョウタと3人の回想 / 屋上'),
+    Tweet('♦️', 'チシヤ', '人は利益で動く。綺麗事じゃ生き残れないよ。', 'DAY 15 ♦️ 拷問ゲーム / モニター前'),
+    Tweet('♥️', 'ミラ', '現実って何かしら？ 人が信じたものよ。', 'DAY 30 ♥️ “最後のゲーム” 夢と現実の境界'),
+    Tweet('🎩', '帽子屋', '楽園をつくるんだ。ここに来た意味を…証明するために。', 'DAY 20 ♣️ BEACH統治 / パーティシーン'),
+    Tweet('💉', 'ニラギ', '優しさなんて、追い詰められたら消えるだろ？', 'DAY 21 ♠️ BEACH崩壊 / 炎の中'),
+    Tweet('⚔️', 'アグニ', '生きる地獄でも背負って生きる。俺の責任だ。', 'DAY 22 ♥️ ニラギ対決 / 罪と贖い'),
+  ];
+}
