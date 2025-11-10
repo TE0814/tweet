@@ -3,63 +3,63 @@
     "emoji": "👑",
     "userName": "アリス",
     "text": "俺、生きたい。だから足掻くんだ。",
-    "day": "DAY 01",
+    "createdAt": "DAY 01",
     "game": "♣️ かくれんぼ（序盤 生存開始）"
   },
   {
     "emoji": "🐇",
     "userName": "ウサギ",
     "text": "あんたが生きてるなら…あたしも生きる。",
-    "day": "DAY 03",
+    "createdAt": "DAY 03",
     "game": "♠️ 逃走ゲーム後 / 屋上での会話"
   },
   {
     "emoji": "🕶️",
     "userName": "アン",
     "text": "感情を排除しろ。分析だけが生存につながる。",
-    "day": "DAY 09",
+    "createdAt": "DAY 09",
     "game": "♦️ データ分析室 / GAME監視"
   },
   {
     "emoji": "🔥",
     "userName": "カルベ",
     "text": "生き残ったのには意味があるんだよ、有栖。",
-    "day": "DAY 10",
+    "createdAt": "DAY 10",
     "game": "♥️ チョウタと3人の回想 / 屋上"
   },
   {
     "emoji": "♦️",
     "userName": "チシヤ",
     "text": "人は利益で動く。綺麗事じゃ生き残れないよ。",
-    "day": "DAY 15",
+    "createdAt": "DAY 15",
     "game": "♦️ 拷問ゲーム / モニター前"
   },
   {
     "emoji": "♥️",
     "userName": "ミラ",
     "text": "現実って何かしら？ 人が信じたものよ。",
-    "day": "DAY 30",
+    "createdAt": "DAY 30",
     "game": "♥️ “最後のゲーム” 夢と現実の境界"
   },
   {
     "emoji": "🎩",
     "userName": "帽子屋",
     "text": "楽園をつくるんだ。ここに来た意味を…証明するために。",
-    "day": "DAY 20",
+    "createdAt": "DAY 20",
     "game": "♣️ BEACH統治 / パーティシーン"
   },
   {
     "emoji": "💉",
     "userName": "ニラギ",
     "text": "優しさなんて、追い詰められたら消えるだろ？",
-    "day": "DAY 21",
+    "createdAt": "DAY 21",
     "game": "♠️ BEACH崩壊 / 炎の中"
   },
   {
     "emoji": "⚔️",
     "userName": "アグニ",
     "text": "生きる地獄でも背負って生きる。俺の責任だ。",
-    "day": "DAY 22",
+    "createdAt": "DAY 22",
     "game": "♥️ ニラギ対決 / 罪と贖い"
   }
 ]
